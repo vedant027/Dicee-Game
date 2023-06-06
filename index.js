@@ -49,7 +49,7 @@ else {
 // For Displaying Result
 
 if (randomNumber1 > randomNumber2){
-    document.querySelector("h2").textContent = "Player 1 Wins! 🚩";
+    document.querySelector("h2").textContent = "🚩 Player 1 Wins! ";
 }
 
 else if (randomNumber1 < randomNumber2){
@@ -57,5 +57,5 @@ else if (randomNumber1 < randomNumber2){
 }
 
 else {
-    document.querySelector("h2").textContent = "Draw!";
+    document.querySelector("h2").textContent = "Draw! 😑";
 }
