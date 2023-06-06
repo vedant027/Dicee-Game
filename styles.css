@@ -1,0 +1,58 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    /* color: #fff; */
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #526D82;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 0 #9DB2BF;
+    font-size: 4rem;
+    color: black;
+}
+
+h2 {
+    margin: 30px;
+    font-family: 'Playfair Display', serif;
+    position: relative;
+    left: 1.5rem;
+    text-shadow: 2px 0 #9DB2BF;
+    font-size: 4.5rem;
+    color: #FF0060;
+}
+
+p {
+    font-size: 2rem;
+    color: #0000;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    text-shadow: 2px 0 #9DB2BF;    
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    word-spacing: 1px;
+}
+
+a {
+    color: #EEEEEE;
+}
